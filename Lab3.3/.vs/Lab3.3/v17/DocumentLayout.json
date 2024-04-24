@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP\\Lab3.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A458AE29-AB34-4151-83F4-141B33E19122}|Lab3.3\\Lab3.3.csproj|d:\\asp\\lab3.3\\lab3.3\\views\\nvv_htmlhelper\\primenumbers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A458AE29-AB34-4151-83F4-141B33E19122}|Lab3.3\\Lab3.3.csproj|solutionrelative:lab3.3\\views\\nvv_htmlhelper\\primenumbers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A458AE29-AB34-4151-83F4-141B33E19122}|Lab3.3\\Lab3.3.csproj|d:\\asp\\lab3.3\\lab3.3\\controllers\\nvv_htmlhelpercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A458AE29-AB34-4151-83F4-141B33E19122}|Lab3.3\\Lab3.3.csproj|solutionrelative:lab3.3\\controllers\\nvv_htmlhelpercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A458AE29-AB34-4151-83F4-141B33E19122}|Lab3.3\\Lab3.3.csproj|d:\\asp\\lab3.3\\lab3.3\\views\\nvv_htmlhelper\\formregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A458AE29-AB34-4151-83F4-141B33E19122}|Lab3.3\\Lab3.3.csproj|solutionrelative:lab3.3\\views\\nvv_htmlhelper\\formregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A458AE29-AB34-4151-83F4-141B33E19122}|Lab3.3\\Lab3.3.csproj|d:\\asp\\lab3.3\\lab3.3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A458AE29-AB34-4151-83F4-141B33E19122}|Lab3.3\\Lab3.3.csproj|solutionrelative:lab3.3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A458AE29-AB34-4151-83F4-141B33E19122}|Lab3.3\\Lab3.3.csproj|d:\\asp\\lab3.3\\lab3.3\\views\\nvv_htmlhelper\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A458AE29-AB34-4151-83F4-141B33E19122}|Lab3.3\\Lab3.3.csproj|solutionrelative:lab3.3\\views\\nvv_htmlhelper\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A458AE29-AB34-4151-83F4-141B33E19122}|Lab3.3\\Lab3.3.csproj|d:\\asp\\lab3.3\\lab3.3\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A458AE29-AB34-4151-83F4-141B33E19122}|Lab3.3\\Lab3.3.csproj|solutionrelative:lab3.3\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeNumbers.cshtml",
+              "DocumentMoniker": "D:\\ASP\\Lab3.3\\Lab3.3\\Views\\NVV_HTMLHelper\\PrimeNumbers.cshtml",
+              "RelativeDocumentMoniker": "Lab3.3\\Views\\NVV_HTMLHelper\\PrimeNumbers.cshtml",
+              "ToolTip": "D:\\ASP\\Lab3.3\\Lab3.3\\Views\\NVV_HTMLHelper\\PrimeNumbers.cshtml",
+              "RelativeToolTip": "Lab3.3\\Views\\NVV_HTMLHelper\\PrimeNumbers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T16:03:53.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\Lab3.3\\Lab3.3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab3.3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP\\Lab3.3\\Lab3.3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab3.3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T15:48:31.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\ASP\\Lab3.3\\Lab3.3\\Views\\NVV_HTMLHelper\\Register.cshtml",
+              "RelativeDocumentMoniker": "Lab3.3\\Views\\NVV_HTMLHelper\\Register.cshtml",
+              "ToolTip": "D:\\ASP\\Lab3.3\\Lab3.3\\Views\\NVV_HTMLHelper\\Register.cshtml",
+              "RelativeToolTip": "Lab3.3\\Views\\NVV_HTMLHelper\\Register.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T15:43:03.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormRegister.cshtml",
+              "DocumentMoniker": "D:\\ASP\\Lab3.3\\Lab3.3\\Views\\NVV_HTMLHelper\\FormRegister.cshtml",
+              "RelativeDocumentMoniker": "Lab3.3\\Views\\NVV_HTMLHelper\\FormRegister.cshtml",
+              "ToolTip": "D:\\ASP\\Lab3.3\\Lab3.3\\Views\\NVV_HTMLHelper\\FormRegister.cshtml",
+              "RelativeToolTip": "Lab3.3\\Views\\NVV_HTMLHelper\\FormRegister.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T15:37:29.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NVV_HTMLHelperController.cs",
+              "DocumentMoniker": "D:\\ASP\\Lab3.3\\Lab3.3\\Controllers\\NVV_HTMLHelperController.cs",
+              "RelativeDocumentMoniker": "Lab3.3\\Controllers\\NVV_HTMLHelperController.cs",
+              "ToolTip": "D:\\ASP\\Lab3.3\\Lab3.3\\Controllers\\NVV_HTMLHelperController.cs",
+              "RelativeToolTip": "Lab3.3\\Controllers\\NVV_HTMLHelperController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:24:01.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "country.cs",
+              "DocumentMoniker": "D:\\ASP\\Lab3.3\\Lab3.3\\Models\\country.cs",
+              "RelativeDocumentMoniker": "Lab3.3\\Models\\country.cs",
+              "ToolTip": "D:\\ASP\\Lab3.3\\Lab3.3\\Models\\country.cs",
+              "RelativeToolTip": "Lab3.3\\Models\\country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:20:52.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
