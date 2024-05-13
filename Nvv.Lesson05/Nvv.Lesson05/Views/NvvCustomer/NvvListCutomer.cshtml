@@ -1,0 +1,41 @@
+﻿@model List<Nvv.Lesson05.Models.NvvCustomer>
+@{
+    ViewBag.Title = "NvvListCutomer";
+    // var list = ViewBag.list;
+    //var list = Model as List<Nvv.Lesson05.Models.NvvCustomer>;
+    int stt = 0;
+}
+
+<h2>Danh sách khách hàng</h2>
+<div class="row">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Mã số</th>
+                <th>Họ và tên</th>
+                <th>Địa chỉ</th>
+                <th>Năm sinh</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                stt++;
+             <tr>
+                <td>@stt</td>
+                <td>@item.CustomerId</td>
+                <td>@item.FirstName.@item.LastName</td>
+                <td>@item.Address</td>
+                <td>@item.YearOfBirth</td>
+                <th>
+                    <a href="#">Edit</a>
+                    <a href="#">Delete</a>
+                </th>
+             </tr>
+                }
+        </tbody>
+    </table>
+</div>
+
