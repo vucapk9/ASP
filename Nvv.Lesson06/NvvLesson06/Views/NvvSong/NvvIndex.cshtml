@@ -1,0 +1,51 @@
+﻿@model IEnumerable<NvvLesson06.Models.NvvSong>
+
+@{
+    ViewBag.Title = "Nvv: Danh sách bài hát ";
+}
+
+<h2>Nvv: Danh sách bài hát </h2>
+
+<p>
+    @Html.ActionLink("Create New", "NvvCreate")
+</p>
+<table class="table table-brodered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvAuthor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvArtist)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvYearRelease)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvAuthor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvArtist)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvYearRelease)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

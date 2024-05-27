@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP\\NvvLesson06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|d:\\asp\\nvvlesson06\\lab05.1\\views\\nvvmember\\createthreee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|solutionrelative:lab05.1\\views\\nvvmember\\createthreee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|D:\\ASP\\NvvLesson06\\lab05.1\\controllers\\nvvmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|solutionrelative:lab05.1\\controllers\\nvvmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|d:\\asp\\nvvlesson06\\lab05.1\\views\\nvvmember\\createtwo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|solutionrelative:lab05.1\\views\\nvvmember\\createtwo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|d:\\asp\\nvvlesson06\\lab05.1\\views\\nvvmember\\createone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|solutionrelative:lab05.1\\views\\nvvmember\\createone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|D:\\ASP\\NvvLesson06\\lab05.1\\views\\nvvmember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|solutionrelative:lab05.1\\views\\nvvmember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAB1AD-851C-43D9-909A-EFF1D88004BC}|NvvLesson06\\NvvLesson06.csproj|D:\\ASP\\NvvLesson06\\nvvlesson06\\views\\nvvsong\\nvvcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CECAB1AD-851C-43D9-909A-EFF1D88004BC}|NvvLesson06\\NvvLesson06.csproj|solutionrelative:nvvlesson06\\views\\nvvsong\\nvvcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|D:\\ASP\\NvvLesson06\\lab05.1\\models\\nvvmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|solutionrelative:lab05.1\\models\\nvvmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|D:\\ASP\\NvvLesson06\\lab05.1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|solutionrelative:lab05.1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|D:\\ASP\\NvvLesson06\\lab05.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|solutionrelative:lab05.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAB1AD-851C-43D9-909A-EFF1D88004BC}|NvvLesson06\\NvvLesson06.csproj|D:\\ASP\\NvvLesson06\\nvvlesson06\\models\\nvvsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECAB1AD-851C-43D9-909A-EFF1D88004BC}|NvvLesson06\\NvvLesson06.csproj|solutionrelative:nvvlesson06\\models\\nvvsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAB1AD-851C-43D9-909A-EFF1D88004BC}|NvvLesson06\\NvvLesson06.csproj|D:\\ASP\\NvvLesson06\\nvvlesson06\\controllers\\nvvsongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECAB1AD-851C-43D9-909A-EFF1D88004BC}|NvvLesson06\\NvvLesson06.csproj|solutionrelative:nvvlesson06\\controllers\\nvvsongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAB1AD-851C-43D9-909A-EFF1D88004BC}|NvvLesson06\\NvvLesson06.csproj|D:\\ASP\\NvvLesson06\\nvvlesson06\\views\\nvvsong\\nvvindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CECAB1AD-851C-43D9-909A-EFF1D88004BC}|NvvLesson06\\NvvLesson06.csproj|solutionrelative:nvvlesson06\\views\\nvvsong\\nvvindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAB1AD-851C-43D9-909A-EFF1D88004BC}|NvvLesson06\\NvvLesson06.csproj|D:\\ASP\\NvvLesson06\\nvvlesson06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CECAB1AD-851C-43D9-909A-EFF1D88004BC}|NvvLesson06\\NvvLesson06.csproj|solutionrelative:nvvlesson06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateThreee.cshtml",
+              "DocumentMoniker": "D:\\ASP\\NvvLesson06\\Lab05.1\\Views\\NvvMember\\CreateThreee.cshtml",
+              "RelativeDocumentMoniker": "Lab05.1\\Views\\NvvMember\\CreateThreee.cshtml",
+              "ToolTip": "D:\\ASP\\NvvLesson06\\Lab05.1\\Views\\NvvMember\\CreateThreee.cshtml",
+              "RelativeToolTip": "Lab05.1\\Views\\NvvMember\\CreateThreee.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T15:26:00.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateTwo.cshtml",
+              "DocumentMoniker": "D:\\ASP\\NvvLesson06\\Lab05.1\\Views\\NvvMember\\CreateTwo.cshtml",
+              "RelativeDocumentMoniker": "Lab05.1\\Views\\NvvMember\\CreateTwo.cshtml",
+              "ToolTip": "D:\\ASP\\NvvLesson06\\Lab05.1\\Views\\NvvMember\\CreateTwo.cshtml",
+              "RelativeToolTip": "Lab05.1\\Views\\NvvMember\\CreateTwo.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAYwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T15:15:39.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateOne.cshtml",
+              "DocumentMoniker": "D:\\ASP\\NvvLesson06\\Lab05.1\\Views\\NvvMember\\CreateOne.cshtml",
+              "RelativeDocumentMoniker": "Lab05.1\\Views\\NvvMember\\CreateOne.cshtml",
+              "ToolTip": "D:\\ASP\\NvvLesson06\\Lab05.1\\Views\\NvvMember\\CreateOne.cshtml",
+              "RelativeToolTip": "Lab05.1\\Views\\NvvMember\\CreateOne.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T10:34:37.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP\\NvvLesson06\\Lab05.1\\Views\\NvvMember\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab05.1\\Views\\NvvMember\\Details.cshtml",
+              "ToolTip": "D:\\ASP\\NvvLesson06\\Lab05.1\\Views\\NvvMember\\Details.cshtml",
+              "RelativeToolTip": "Lab05.1\\Views\\NvvMember\\Details.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T10:24:04.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NvvMemberController.cs",
+              "DocumentMoniker": "D:\\ASP\\NvvLesson06\\Lab05.1\\Controllers\\NvvMemberController.cs",
+              "RelativeDocumentMoniker": "Lab05.1\\Controllers\\NvvMemberController.cs",
+              "ToolTip": "D:\\ASP\\NvvLesson06\\Lab05.1\\Controllers\\NvvMemberController.cs",
+              "RelativeToolTip": "Lab05.1\\Controllers\\NvvMemberController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwv08AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:46:06.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\NvvLesson06\\Lab05.1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab05.1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP\\NvvLesson06\\Lab05.1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab05.1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:35:10.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nvvmember.cs",
+              "DocumentMoniker": "D:\\ASP\\NvvLesson06\\Lab05.1\\Models\\Nvvmember.cs",
+              "RelativeDocumentMoniker": "Lab05.1\\Models\\Nvvmember.cs",
+              "ToolTip": "D:\\ASP\\NvvLesson06\\Lab05.1\\Models\\Nvvmember.cs",
+              "RelativeToolTip": "Lab05.1\\Models\\Nvvmember.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:10:16.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP\\NvvLesson06\\Lab05.1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab05.1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP\\NvvLesson06\\Lab05.1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab05.1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:09:11.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NvvCreate.cshtml",
+              "DocumentMoniker": "D:\\ASP\\NvvLesson06\\NvvLesson06\\Views\\NvvSong\\NvvCreate.cshtml",
+              "RelativeDocumentMoniker": "NvvLesson06\\Views\\NvvSong\\NvvCreate.cshtml",
+              "ToolTip": "D:\\ASP\\NvvLesson06\\NvvLesson06\\Views\\NvvSong\\NvvCreate.cshtml",
+              "RelativeToolTip": "NvvLesson06\\Views\\NvvSong\\NvvCreate.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvzkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:23:40.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NvvIndex.cshtml",
+              "DocumentMoniker": "D:\\ASP\\NvvLesson06\\NvvLesson06\\Views\\NvvSong\\NvvIndex.cshtml",
+              "RelativeDocumentMoniker": "NvvLesson06\\Views\\NvvSong\\NvvIndex.cshtml",
+              "ToolTip": "D:\\ASP\\NvvLesson06\\NvvLesson06\\Views\\NvvSong\\NvvIndex.cshtml",
+              "RelativeToolTip": "NvvLesson06\\Views\\NvvSong\\NvvIndex.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:14:05.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NvvSongController.cs",
+              "DocumentMoniker": "D:\\ASP\\NvvLesson06\\NvvLesson06\\Controllers\\NvvSongController.cs",
+              "RelativeDocumentMoniker": "NvvLesson06\\Controllers\\NvvSongController.cs",
+              "ToolTip": "D:\\ASP\\NvvLesson06\\NvvLesson06\\Controllers\\NvvSongController.cs",
+              "RelativeToolTip": "NvvLesson06\\Controllers\\NvvSongController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:58:14.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NvvSong.cs",
+              "DocumentMoniker": "D:\\ASP\\NvvLesson06\\NvvLesson06\\Models\\NvvSong.cs",
+              "RelativeDocumentMoniker": "NvvLesson06\\Models\\NvvSong.cs",
+              "ToolTip": "D:\\ASP\\NvvLesson06\\NvvLesson06\\Models\\NvvSong.cs",
+              "RelativeToolTip": "NvvLesson06\\Models\\NvvSong.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:46:38.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\NvvLesson06\\NvvLesson06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NvvLesson06\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP\\NvvLesson06\\NvvLesson06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NvvLesson06\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:41:17.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
