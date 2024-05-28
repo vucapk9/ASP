@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP\\Lab1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC8952-D9EC-49E5-9AE9-889A44D90CF5}|Lab1.2\\Lab1.2.csproj|d:\\asp\\lab1.1\\lab1.2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54AC8952-D9EC-49E5-9AE9-889A44D90CF5}|Lab1.2\\Lab1.2.csproj|solutionrelative:lab1.2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC8952-D9EC-49E5-9AE9-889A44D90CF5}|Lab1.2\\Lab1.2.csproj|d:\\asp\\lab1.1\\lab1.2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54AC8952-D9EC-49E5-9AE9-889A44D90CF5}|Lab1.2\\Lab1.2.csproj|solutionrelative:lab1.2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC8952-D9EC-49E5-9AE9-889A44D90CF5}|Lab1.2\\Lab1.2.csproj|d:\\asp\\lab1.1\\lab1.2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54AC8952-D9EC-49E5-9AE9-889A44D90CF5}|Lab1.2\\Lab1.2.csproj|solutionrelative:lab1.2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC8952-D9EC-49E5-9AE9-889A44D90CF5}|Lab1.2\\Lab1.2.csproj|d:\\asp\\lab1.1\\lab1.2\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54AC8952-D9EC-49E5-9AE9-889A44D90CF5}|Lab1.2\\Lab1.2.csproj|solutionrelative:lab1.2\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC8952-D9EC-49E5-9AE9-889A44D90CF5}|Lab1.2\\Lab1.2.csproj|d:\\asp\\lab1.1\\lab1.2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AC8952-D9EC-49E5-9AE9-889A44D90CF5}|Lab1.2\\Lab1.2.csproj|solutionrelative:lab1.2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC8952-D9EC-49E5-9AE9-889A44D90CF5}|Lab1.2\\Lab1.2.csproj|d:\\asp\\lab1.1\\lab1.2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54AC8952-D9EC-49E5-9AE9-889A44D90CF5}|Lab1.2\\Lab1.2.csproj|solutionrelative:lab1.2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6CD009-02FB-47E9-A43A-AFED436D4447}|Lab1.1\\Lab1.1.csproj|d:\\asp\\lab1.1\\lab1.1\\controllers\\nvvhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6CD009-02FB-47E9-A43A-AFED436D4447}|Lab1.1\\Lab1.1.csproj|solutionrelative:lab1.1\\controllers\\nvvhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6CD009-02FB-47E9-A43A-AFED436D4447}|Lab1.1\\Lab1.1.csproj|d:\\asp\\lab1.1\\lab1.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C6CD009-02FB-47E9-A43A-AFED436D4447}|Lab1.1\\Lab1.1.csproj|solutionrelative:lab1.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6CD009-02FB-47E9-A43A-AFED436D4447}|Lab1.1\\Lab1.1.csproj|d:\\asp\\lab1.1\\lab1.1\\views\\nvvhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C6CD009-02FB-47E9-A43A-AFED436D4447}|Lab1.1\\Lab1.1.csproj|solutionrelative:lab1.1\\views\\nvvhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6CD009-02FB-47E9-A43A-AFED436D4447}|Lab1.1\\Lab1.1.csproj|d:\\asp\\lab1.1\\lab1.1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6CD009-02FB-47E9-A43A-AFED436D4447}|Lab1.1\\Lab1.1.csproj|solutionrelative:lab1.1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6CD009-02FB-47E9-A43A-AFED436D4447}|Lab1.1\\Lab1.1.csproj|d:\\asp\\lab1.1\\lab1.1\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C6CD009-02FB-47E9-A43A-AFED436D4447}|Lab1.1\\Lab1.1.csproj|solutionrelative:lab1.1\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\Lab1.1\\Lab1.2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab1.2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\Lab1.1\\Lab1.2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab1.2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:31:49.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\ASP\\Lab1.1\\Lab1.2\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Lab1.2\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\ASP\\Lab1.1\\Lab1.2\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Lab1.2\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:31:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\ASP\\Lab1.1\\Lab1.2\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Lab1.2\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\ASP\\Lab1.1\\Lab1.2\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Lab1.2\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:30:57.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\ASP\\Lab1.1\\Lab1.2\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "Lab1.2\\Views\\Home\\Products.cshtml",
+              "ToolTip": "D:\\ASP\\Lab1.1\\Lab1.2\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "Lab1.2\\Views\\Home\\Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:30:08.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP\\Lab1.1\\Lab1.2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab1.2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP\\Lab1.1\\Lab1.2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab1.2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:28:11.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\Lab1.1\\Lab1.2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab1.2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP\\Lab1.1\\Lab1.2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab1.2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:25:03.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\Lab1.1\\Lab1.1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab1.1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP\\Lab1.1\\Lab1.1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab1.1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwB8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:21:38.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\Lab1.1\\Lab1.1\\Views\\NvvHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab1.1\\Views\\NvvHome\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\Lab1.1\\Lab1.1\\Views\\NvvHome\\Index.cshtml",
+              "RelativeToolTip": "Lab1.1\\Views\\NvvHome\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T12:20:28.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NvvHomeController.cs",
+              "DocumentMoniker": "D:\\ASP\\Lab1.1\\Lab1.1\\Controllers\\NvvHomeController.cs",
+              "RelativeDocumentMoniker": "Lab1.1\\Controllers\\NvvHomeController.cs",
+              "ToolTip": "D:\\ASP\\Lab1.1\\Lab1.1\\Controllers\\NvvHomeController.cs",
+              "RelativeToolTip": "Lab1.1\\Controllers\\NvvHomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:18:20.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP\\Lab1.1\\Lab1.1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab1.1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP\\Lab1.1\\Lab1.1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab1.1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:14:48.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\ASP\\Lab1.1\\Lab1.1\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Lab1.1\\Content\\Site.css",
+              "ToolTip": "D:\\ASP\\Lab1.1\\Lab1.1\\Content\\Site.css",
+              "RelativeToolTip": "Lab1.1\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T12:14:17.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
