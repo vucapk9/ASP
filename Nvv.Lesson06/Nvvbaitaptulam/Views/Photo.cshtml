@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "Album ảnh";
+}
+
+<h2>Album ảnh</h2>
+
+@foreach (var imagePath in Directory.EnumerateFiles(Server.MapPath("~/Content/Images")))
+{
+    <img src="@Url.Content(imagePath)" alt="Ảnh" />
+}

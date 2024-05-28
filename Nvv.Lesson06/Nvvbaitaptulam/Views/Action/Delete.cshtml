@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Xóa ảnh";
+}
+
+<h2>Xóa ảnh</h2>
+
+<div>@ViewBag.Message</div>
+
+
+@foreach (var imagePath in Directory.EnumerateFiles(Server.MapPath("~/Content/Images")))
+{
+    string fileName = Path.GetFileName(imagePath);
+    <div>
+        <img src="@Url.Content(imagePath)" alt="Ảnh" />
+        @Html.ActionLink("Xóa", "Delete", new { fileName = fileName })
+    </div>
+}
