@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "D:\\ASP\\Bai3.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|d:\\asp\\bai3.1\\bai3.1\\views\\nvvstudent\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\views\\nvvstudent\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP\\Bai3.1\\Bai3.1\\Views\\Shared\\_ViewContact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3.1\\Views\\Shared\\_ViewContact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|D:\\ASP\\Bai3.1\\bai3.1\\controllers\\nvvhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\controllers\\nvvhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP\\Bai3.1\\Bai3.1\\Views\\NVVstudent\\AddStudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3.1\\Views\\NVVstudent\\AddStudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|D:\\ASP\\Bai3.1\\bai3.1\\views\\nvvstudent\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\views\\nvvstudent\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP\\Bai3.1\\Bai3.1\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3.1\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|D:\\ASP\\Bai3.1\\bai3.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP\\Bai3.1\\Bai3.1\\Views\\NVVstudent\\StudentList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3.1\\Views\\NVVstudent\\StudentList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|D:\\ASP\\Bai3.1\\bai3.1\\views\\shared\\_viewcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\views\\shared\\_viewcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP\\Bai3.1\\Bai3.1\\Views\\NVVstudent\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3.1\\Views\\NVVstudent\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|D:\\ASP\\Bai3.1\\bai3.1\\controllers\\nvvstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\controllers\\nvvstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP\\Bai3.1\\Bai3.1\\Controllers\\NVVstudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3.1\\Controllers\\NVVstudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|D:\\ASP\\Bai3.1\\bai3.1\\views\\nvvstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\views\\nvvstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP\\Bai3.1\\Bai3.1\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3.1\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|D:\\ASP\\Bai3.1\\bai3.1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6946AF2-DE07-47E4-AFC3-BE55F74438C1}|Bai3.1\\Bai3.1.csproj|solutionrelative:bai3.1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP\\Bai3.1\\Bai3.1\\Controllers\\NVVHomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai3.1\\Controllers\\NVVHomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\ASP\\Bai3.1\\Bai3.1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Bai3.1\\Views\\Shared\\_Layout.cshtml",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "_ViewContact.cshtml",
               "DocumentMoniker": "D:\\ASP\\Bai3.1\\Bai3.1\\Views\\Shared\\_ViewContact.cshtml",
               "RelativeDocumentMoniker": "Bai3.1\\Views\\Shared\\_ViewContact.cshtml",
@@ -66,11 +66,12 @@
               "RelativeToolTip": "Bai3.1\\Views\\Shared\\_ViewContact.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T13:32:33.761Z"
+              "WhenOpened": "2024-04-23T13:32:33.761Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AddStudent.cshtml",
               "DocumentMoniker": "D:\\ASP\\Bai3.1\\Bai3.1\\Views\\NVVstudent\\AddStudent.cshtml",
               "RelativeDocumentMoniker": "Bai3.1\\Views\\NVVstudent\\AddStudent.cshtml",
@@ -83,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentList.cshtml",
               "DocumentMoniker": "D:\\ASP\\Bai3.1\\Bai3.1\\Views\\NVVstudent\\StudentList.cshtml",
               "RelativeDocumentMoniker": "Bai3.1\\Views\\NVVstudent\\StudentList.cshtml",
@@ -95,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ASP\\Bai3.1\\Bai3.1\\Views\\NVVstudent\\Index.cshtml",
               "RelativeDocumentMoniker": "Bai3.1\\Views\\NVVstudent\\Index.cshtml",
@@ -119,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "D:\\ASP\\Bai3.1\\Bai3.1\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Bai3.1\\App_Start\\RouteConfig.cs",
@@ -131,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "NVVHomeController.cs",
               "DocumentMoniker": "D:\\ASP\\Bai3.1\\Bai3.1\\Controllers\\NVVHomeController.cs",
               "RelativeDocumentMoniker": "Bai3.1\\Controllers\\NVVHomeController.cs",

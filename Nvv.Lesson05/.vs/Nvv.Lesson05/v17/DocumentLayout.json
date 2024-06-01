@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\ASP\\Nvv.Lesson05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2525AC0E-26D1-441E-8B17-C9209B065F64}|Nvv.Lesson05\\Nvv.Lesson05.csproj|d:\\asp\\nvv.lesson05\\nvv.lesson05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2525AC0E-26D1-441E-8B17-C9209B065F64}|Nvv.Lesson05\\Nvv.Lesson05.csproj|solutionrelative:nvv.lesson05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP\\Nvv.Lesson05\\Nvv.Lesson05\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nvv.Lesson05\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2525AC0E-26D1-441E-8B17-C9209B065F64}|Nvv.Lesson05\\Nvv.Lesson05.csproj|D:\\ASP\\Nvv.Lesson05\\nvv.lesson05\\models\\nvvcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2525AC0E-26D1-441E-8B17-C9209B065F64}|Nvv.Lesson05\\Nvv.Lesson05.csproj|solutionrelative:nvv.lesson05\\models\\nvvcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP\\Nvv.Lesson05\\Nvv.Lesson05\\Models\\NvvCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nvv.Lesson05\\Models\\NvvCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Nvv.Lesson05\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\ASP\\Nvv.Lesson05\\Nvv.Lesson05\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Nvv.Lesson05\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAADQAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-13T10:38:06.855Z",
               "EditorCaption": ""
