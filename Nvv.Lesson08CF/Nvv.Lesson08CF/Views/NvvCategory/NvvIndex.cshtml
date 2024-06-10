@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Nvv.Lesson08CF.Models.NvvCategory>
+
+@{
+    ViewBag.Title = "NvvIndex";
+}
+
+<h2>NvvIndex</h2>
+
+<p>
+    @Html.ActionLink("Create New", "NvvCreate")
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvCategoryName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvCategoryName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.NvvCategoryId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.NvvCategoryId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.NvvCategoryId })
+        </td>
+    </tr>
+}
+
+</table>

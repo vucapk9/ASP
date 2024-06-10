@@ -3,27 +3,31 @@
   "WorkspaceRootPath": "D:\\ASP\\Nvv.Lesson06\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|D:\\ASP\\Nvv.Lesson06\\lab05.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|solutionrelative:lab05.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|D:\\ASP\\Nvv.Lesson06\\nvvbaitaptulam\\controllers\\actioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|solutionrelative:nvvbaitaptulam\\controllers\\actioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|D:\\ASP\\Nvv.Lesson06\\nvvbaitaptulam\\views\\action\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|solutionrelative:nvvbaitaptulam\\views\\action\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|d:\\asp\\nvv.lesson06\\nvvbaitaptulam\\views\\action\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|solutionrelative:nvvbaitaptulam\\views\\action\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|d:\\asp\\nvv.lesson06\\nvvbaitaptulam\\controllers\\actioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|solutionrelative:nvvbaitaptulam\\controllers\\actioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|d:\\asp\\nvv.lesson06\\nvvbaitaptulam\\views\\action\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|solutionrelative:nvvbaitaptulam\\views\\action\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|d:\\asp\\nvv.lesson06\\nvvbaitaptulam\\views\\photo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|D:\\ASP\\Nvv.Lesson06\\nvvbaitaptulam\\views\\photo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|solutionrelative:nvvbaitaptulam\\views\\photo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|d:\\asp\\nvv.lesson06\\nvvbaitaptulam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|D:\\ASP\\Nvv.Lesson06\\nvvbaitaptulam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3C46950-E4B9-4D96-A829-1D109F31E5B5}|Nvvbaitaptulam\\Nvvbaitaptulam.csproj|solutionrelative:nvvbaitaptulam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|d:\\asp\\nvv.lesson06\\lab05.1\\views\\nvvmember\\createthreee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|D:\\ASP\\Nvv.Lesson06\\lab05.1\\views\\nvvmember\\createthreee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|solutionrelative:lab05.1\\views\\nvvmember\\createthreee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -55,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|solutionrelative:lab05.1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|D:\\ASP\\Nvv.Lesson06\\lab05.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{118A6C30-B648-4496-B8D4-55941FC28443}|Lab05.1\\Lab05.1.csproj|solutionrelative:lab05.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CECAB1AD-851C-43D9-909A-EFF1D88004BC}|NvvLesson06\\NvvLesson06.csproj|D:\\ASP\\Nvv.Lesson06\\nvvlesson06\\models\\nvvsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CECAB1AD-851C-43D9-909A-EFF1D88004BC}|NvvLesson06\\NvvLesson06.csproj|solutionrelative:nvvlesson06\\models\\nvvsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,17 +82,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\ASP\\Nvv.Lesson06\\Nvvbaitaptulam\\Views\\Action\\Delete.cshtml",
               "RelativeDocumentMoniker": "Nvvbaitaptulam\\Views\\Action\\Delete.cshtml",
               "ToolTip": "D:\\ASP\\Nvv.Lesson06\\Nvvbaitaptulam\\Views\\Action\\Delete.cshtml",
               "RelativeToolTip": "Nvvbaitaptulam\\Views\\Action\\Delete.cshtml",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-28T07:21:58.578Z",
               "EditorCaption": ""
@@ -118,14 +118,14 @@
               "RelativeDocumentMoniker": "Nvvbaitaptulam\\Controllers\\ActionController.cs",
               "ToolTip": "D:\\ASP\\Nvv.Lesson06\\Nvvbaitaptulam\\Controllers\\ActionController.cs",
               "RelativeToolTip": "Nvvbaitaptulam\\Controllers\\ActionController.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAswC0AAAAhAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwC0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T07:14:25.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Photo.cshtml",
               "DocumentMoniker": "D:\\ASP\\Nvv.Lesson06\\Nvvbaitaptulam\\Views\\Photo.cshtml",
               "RelativeDocumentMoniker": "Nvvbaitaptulam\\Views\\Photo.cshtml",
@@ -133,12 +133,11 @@
               "RelativeToolTip": "Nvvbaitaptulam\\Views\\Photo.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T07:12:16.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T07:12:16.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\ASP\\Nvv.Lesson06\\Nvvbaitaptulam\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Nvvbaitaptulam\\Views\\Shared\\_Layout.cshtml",
@@ -146,12 +145,11 @@
               "RelativeToolTip": "Nvvbaitaptulam\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T07:03:35.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T07:03:35.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CreateThreee.cshtml",
               "DocumentMoniker": "D:\\ASP\\Nvv.Lesson06\\Lab05.1\\Views\\NvvMember\\CreateThreee.cshtml",
               "RelativeDocumentMoniker": "Lab05.1\\Views\\NvvMember\\CreateThreee.cshtml",
@@ -159,12 +157,11 @@
               "RelativeToolTip": "Lab05.1\\Views\\NvvMember\\CreateThreee.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-27T15:26:00.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T15:26:00.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CreateTwo.cshtml",
               "DocumentMoniker": "D:\\ASP\\Nvv.Lesson06\\Lab05.1\\Views\\NvvMember\\CreateTwo.cshtml",
               "RelativeDocumentMoniker": "Lab05.1\\Views\\NvvMember\\CreateTwo.cshtml",
@@ -176,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CreateOne.cshtml",
               "DocumentMoniker": "D:\\ASP\\Nvv.Lesson06\\Lab05.1\\Views\\NvvMember\\CreateOne.cshtml",
               "RelativeDocumentMoniker": "Lab05.1\\Views\\NvvMember\\CreateOne.cshtml",
@@ -188,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\ASP\\Nvv.Lesson06\\Lab05.1\\Views\\NvvMember\\Details.cshtml",
               "RelativeDocumentMoniker": "Lab05.1\\Views\\NvvMember\\Details.cshtml",
@@ -200,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "NvvMemberController.cs",
               "DocumentMoniker": "D:\\ASP\\Nvv.Lesson06\\Lab05.1\\Controllers\\NvvMemberController.cs",
               "RelativeDocumentMoniker": "Lab05.1\\Controllers\\NvvMemberController.cs",
@@ -212,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\ASP\\Nvv.Lesson06\\Lab05.1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Lab05.1\\Views\\Shared\\_Layout.cshtml",
@@ -220,11 +217,12 @@
               "RelativeToolTip": "Lab05.1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-27T09:35:10.893Z"
+              "WhenOpened": "2024-05-27T09:35:10.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Nvvmember.cs",
               "DocumentMoniker": "D:\\ASP\\Nvv.Lesson06\\Lab05.1\\Models\\Nvvmember.cs",
               "RelativeDocumentMoniker": "Lab05.1\\Models\\Nvvmember.cs",
@@ -236,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\ASP\\Nvv.Lesson06\\Lab05.1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Lab05.1\\Controllers\\HomeController.cs",
@@ -248,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "NvvCreate.cshtml",
               "DocumentMoniker": "D:\\ASP\\Nvv.Lesson06\\NvvLesson06\\Views\\NvvSong\\NvvCreate.cshtml",
               "RelativeDocumentMoniker": "NvvLesson06\\Views\\NvvSong\\NvvCreate.cshtml",

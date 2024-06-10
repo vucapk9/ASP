@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Lab2.1\\Controllers\\NvvproductController.cs",
               "ToolTip": "D:\\ASP\\Nvv.lesson02\\Lab2.1\\Controllers\\NvvproductController.cs",
               "RelativeToolTip": "Lab2.1\\Controllers\\NvvproductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T13:07:46.636Z",
               "EditorCaption": ""
@@ -95,8 +95,7 @@
               "RelativeToolTip": "Nvv.lesson02\\Controllers\\NvvProductsController.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T12:46:51.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T12:46:51.614Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,11 @@
               "RelativeToolTip": "Nvv.lesson02\\Views\\Home\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T12:43:42.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T12:43:42.358Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

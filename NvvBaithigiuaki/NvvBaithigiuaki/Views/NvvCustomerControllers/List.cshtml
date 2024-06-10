@@ -1,0 +1,57 @@
+﻿@model IEnumerable<NvvBaithigiuaki.Models.NvvCustomer>
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvFullName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvAge)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvGender)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvFullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvPhone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvAge)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvGender)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.NvvId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.NvvId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.NvvId })
+        </td>
+    </tr>
+}
+
+</table>
