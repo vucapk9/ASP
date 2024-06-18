@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NvvK22CNT2Lesson07DbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="nvvKhoa">
+    <Key>
+      <PropertyRef Name="NvvMaKH" />
+    </Key>
+    <Property Name="NvvMaKH" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NvvTenKH" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="NvvTrangThai" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="nvvSinhVien">
+    <Key>
+      <PropertyRef Name="NvvMaSV" />
+    </Key>
+    <Property Name="NvvMaSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NvvHoSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NvvTenSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NvvNgaySinh" Type="DateTime" Precision="0" />
+    <Property Name="NvvPhai" Type="Boolean" />
+    <Property Name="NvvPhone" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="NvvEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NvvMaKH" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="NvvK22CNT2Lesson07DbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="nvvKhoa" EntityType="Self.nvvKhoa" />
+    <EntitySet Name="nvvSinhVien" EntityType="Self.nvvSinhVien" />
+  </EntityContainer>
+</Schema>
