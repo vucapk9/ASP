@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NvvK22CNT2Lesson10DbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="nvvKetqua">
+    <Key>
+      <PropertyRef Name="NvvMaSV" />
+      <PropertyRef Name="NvvMaKH" />
+    </Key>
+    <Property Name="NvvMaSV" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="NvvMaKH" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Diem" Type="float" />
+  </EntityType>
+  <EntityType Name="nvvKhoa">
+    <Key>
+      <PropertyRef Name="NvvMaKH" />
+    </Key>
+    <Property Name="NvvMaKH" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="NvvTenKH" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="nvvMonHoc">
+    <Key>
+      <PropertyRef Name="NvvMaKH" />
+    </Key>
+    <Property Name="NvvMaKH" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="NvvTenMH" Type="nvarchar" MaxLength="50" />
+    <Property Name="NvvSotiet" Type="int" />
+  </EntityType>
+  <EntityType Name="nvvSinhVien">
+    <Key>
+      <PropertyRef Name="NvvMaSV" />
+    </Key>
+    <Property Name="NvvMaSV" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="NvvHoSV" Type="nvarchar" MaxLength="50" />
+    <Property Name="NvvTenSV" Type="nvarchar" MaxLength="50" />
+    <Property Name="NvvPhai" Type="bit" />
+    <Property Name="NvvNgaySinh" Type="date" />
+    <Property Name="NvvNoiSinh" Type="nvarchar" MaxLength="50" />
+    <Property Name="NvvMaKH" Type="nchar" MaxLength="10" />
+    <Property Name="NvvHocBong" Type="float" />
+    <Property Name="NvvDiemTrungBinh" Type="float" />
+  </EntityType>
+  <EntityContainer Name="NvvK22CNT2Lesson10DbModelStoreContainer">
+    <EntitySet Name="nvvKetqua" EntityType="Self.nvvKetqua" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="nvvKhoa" EntityType="Self.nvvKhoa" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="nvvMonHoc" EntityType="Self.nvvMonHoc" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="nvvSinhVien" EntityType="Self.nvvSinhVien" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\ASP\\NvvBaiKiemTraGK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|D:\\ASP\\NvvBaiKiemTraGK\\nvvbaikiemtragk\\views\\nvvkhoas\\nvvcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|D:\\ASP\\NvvBaiKiemTraGK\\nvvbaikiemtragk\\views\\nvvkhoas\\nvvdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|solutionrelative:nvvbaikiemtragk\\views\\nvvkhoas\\nvvdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|d:\\asp\\nvvbaikiemtragk\\nvvbaikiemtragk\\views\\nvvkhoas\\nvvcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|solutionrelative:nvvbaikiemtragk\\views\\nvvkhoas\\nvvcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -11,23 +15,19 @@
       "RelativeMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|solutionrelative:nvvbaikiemtragk\\views\\nvvkhoas\\nvvdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|D:\\ASP\\NvvBaiKiemTraGK\\nvvbaikiemtragk\\views\\nvvkhoas\\nvvdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|solutionrelative:nvvbaikiemtragk\\views\\nvvkhoas\\nvvdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|D:\\ASP\\NvvBaiKiemTraGK\\nvvbaikiemtragk\\views\\nvvkhoas\\nvvedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|solutionrelative:nvvbaikiemtragk\\views\\nvvkhoas\\nvvedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|d:\\asp\\nvvbaikiemtragk\\nvvbaikiemtragk\\views\\nvvkhoas\\nvvindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|D:\\ASP\\NvvBaiKiemTraGK\\nvvbaikiemtragk\\views\\nvvkhoas\\nvvindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|solutionrelative:nvvbaikiemtragk\\views\\nvvkhoas\\nvvindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|d:\\asp\\nvvbaikiemtragk\\nvvbaikiemtragk\\controllers\\nvvkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|D:\\ASP\\NvvBaiKiemTraGK\\nvvbaikiemtragk\\controllers\\nvvkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|solutionrelative:nvvbaikiemtragk\\controllers\\nvvkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|d:\\asp\\nvvbaikiemtragk\\nvvbaikiemtragk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|D:\\ASP\\NvvBaiKiemTraGK\\nvvbaikiemtragk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31823375-6116-494E-9FC9-DB3300C48D96}|NvvBaiKiemTraGK\\NvvBaiKiemTraGK.csproj|solutionrelative:nvvbaikiemtragk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -70,8 +70,7 @@
               "RelativeToolTip": "NvvBaiKiemTraGK\\Views\\NvvKhoas\\NvvIndex.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-18T05:30:25.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T05:30:25.785Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "NvvBaiKiemTraGK\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-18T05:29:41.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T05:29:41.622Z"
             },
             {
               "$type": "Document",
@@ -96,25 +94,24 @@
               "RelativeToolTip": "NvvBaiKiemTraGK\\Views\\NvvKhoas\\NvvEdit.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-18T04:54:27.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T04:54:27.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NvvCreate.cshtml",
               "DocumentMoniker": "D:\\ASP\\NvvBaiKiemTraGK\\NvvBaiKiemTraGK\\Views\\NvvKhoas\\NvvCreate.cshtml",
               "RelativeDocumentMoniker": "NvvBaiKiemTraGK\\Views\\NvvKhoas\\NvvCreate.cshtml",
               "ToolTip": "D:\\ASP\\NvvBaiKiemTraGK\\NvvBaiKiemTraGK\\Views\\NvvKhoas\\NvvCreate.cshtml",
               "RelativeToolTip": "NvvBaiKiemTraGK\\Views\\NvvKhoas\\NvvCreate.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADQAAAApAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-18T04:54:19.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "NvvDetails.cshtml",
               "DocumentMoniker": "D:\\ASP\\NvvBaiKiemTraGK\\NvvBaiKiemTraGK\\Views\\NvvKhoas\\NvvDetails.cshtml",
               "RelativeDocumentMoniker": "NvvBaiKiemTraGK\\Views\\NvvKhoas\\NvvDetails.cshtml",
@@ -127,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NvvDelete.cshtml",
               "DocumentMoniker": "D:\\ASP\\NvvBaiKiemTraGK\\NvvBaiKiemTraGK\\Views\\NvvKhoas\\NvvDelete.cshtml",
               "RelativeDocumentMoniker": "NvvBaiKiemTraGK\\Views\\NvvKhoas\\NvvDelete.cshtml",
@@ -135,8 +132,7 @@
               "RelativeToolTip": "NvvBaiKiemTraGK\\Views\\NvvKhoas\\NvvDelete.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-18T04:52:29.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T04:52:29.11Z"
             },
             {
               "$type": "Document",
@@ -148,8 +144,7 @@
               "RelativeToolTip": "NvvBaiKiemTraGK\\Controllers\\NvvKhoasController.cs",
               "ViewState": "AQIAAH8AAAAAAAAAAAAAADIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T04:48:33.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T04:48:33.532Z"
             },
             {
               "$type": "Document",
@@ -172,8 +167,7 @@
               "RelativeToolTip": "NvvBaiKiemTraGK\\Views\\Home\\Contact.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T08:51:05.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T08:51:05.963Z"
             },
             {
               "$type": "Document",
@@ -185,8 +179,7 @@
               "RelativeToolTip": "NvvBaiKiemTraGK\\Views\\Home\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T08:50:44.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T08:50:44.976Z"
             },
             {
               "$type": "Document",
@@ -198,8 +191,7 @@
               "RelativeToolTip": "NvvBaiKiemTraGK\\Views\\Shared\\_NvvLayout.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T08:49:32.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T08:49:32.728Z"
             },
             {
               "$type": "Document",
@@ -211,8 +203,7 @@
               "RelativeToolTip": "NvvBaiKiemTraGK\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T08:49:14.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T08:49:14.782Z"
             }
           ]
         }

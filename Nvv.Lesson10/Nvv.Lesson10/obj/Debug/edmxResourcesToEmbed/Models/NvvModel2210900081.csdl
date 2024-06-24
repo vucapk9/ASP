@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NvvK22CNT2Lesson10DbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="nvvKetqua">
+    <Key>
+      <PropertyRef Name="NvvMaSV" />
+      <PropertyRef Name="NvvMaKH" />
+    </Key>
+    <Property Name="NvvMaSV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NvvMaKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Diem" Type="Double" />
+  </EntityType>
+  <EntityType Name="nvvKhoa">
+    <Key>
+      <PropertyRef Name="NvvMaKH" />
+    </Key>
+    <Property Name="NvvMaKH" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NvvTenKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="nvvMonHoc">
+    <Key>
+      <PropertyRef Name="NvvMaKH" />
+    </Key>
+    <Property Name="NvvMaKH" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NvvTenMH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NvvSotiet" Type="Int32" />
+  </EntityType>
+  <EntityType Name="nvvSinhVien">
+    <Key>
+      <PropertyRef Name="NvvMaSV" />
+    </Key>
+    <Property Name="NvvMaSV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NvvHoSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NvvTenSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NvvPhai" Type="Boolean" />
+    <Property Name="NvvNgaySinh" Type="DateTime" Precision="0" />
+    <Property Name="NvvNoiSinh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NvvMaKH" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="NvvHocBong" Type="Double" />
+    <Property Name="NvvDiemTrungBinh" Type="Double" />
+  </EntityType>
+  <EntityContainer Name="NvvK22CNT2Lesson10DbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="nvvKetqua" EntityType="Self.nvvKetqua" />
+    <EntitySet Name="nvvKhoa" EntityType="Self.nvvKhoa" />
+    <EntitySet Name="nvvMonHoc" EntityType="Self.nvvMonHoc" />
+    <EntitySet Name="nvvSinhVien" EntityType="Self.nvvSinhVien" />
+  </EntityContainer>
+</Schema>

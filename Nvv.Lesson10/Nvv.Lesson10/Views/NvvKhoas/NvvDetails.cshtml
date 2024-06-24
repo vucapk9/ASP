@@ -1,0 +1,26 @@
+﻿@model Nvv.Lesson10.Models.nvvKhoa
+
+@{
+    ViewBag.Title = "NvvDetails";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>nvvKhoa</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NvvTenKH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvvTenKH)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.NvvMaKH }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

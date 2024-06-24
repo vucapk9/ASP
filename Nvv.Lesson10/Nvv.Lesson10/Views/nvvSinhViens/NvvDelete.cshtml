@@ -1,0 +1,88 @@
+﻿@model Nvv.Lesson10.Models.nvvSinhVien
+
+@{
+    ViewBag.Title = "NvvDelete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>nvvSinhVien</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NvvHoSV)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvvHoSV)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvvTenSV)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvvTenSV)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvvPhai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvvPhai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvvNgaySinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvvNgaySinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvvNoiSinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvvNoiSinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvvMaKH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvvMaKH)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvvHocBong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvvHocBong)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvvDiemTrungBinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvvDiemTrungBinh)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

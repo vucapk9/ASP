@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Nvv.Lesson10.Models.nvvMonHoc>
+
+@{
+    ViewBag.Title = "NvvIndex";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("NVV:Create New", "NvvCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvTenMH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvSotiet)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvTenMH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvSotiet)
+        </td>
+        <td>
+            @Html.ActionLink("NVV:Edit", "NvvEdit", new { id=item.NvvMaKH.Trim() }) |
+            @Html.ActionLink("NVV:Details", "NvvDetails", new { id=item.NvvMaKH.Trim() }) |
+            @Html.ActionLink("NVV:Delete", "NvvDelete", new { id=item.NvvMaKH.Trim() })
+        </td>
+    </tr>
+}
+
+</table>

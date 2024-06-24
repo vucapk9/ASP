@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Nvv.Lesson10.Models.nvvSinhVien>
+
+@{
+    ViewBag.Title = "NvvIndex";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("NVV:Create New", "NvvCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvHoSV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvTenSV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvPhai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvNgaySinh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvNoiSinh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvMaKH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvHocBong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvvDiemTrungBinh)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvHoSV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvTenSV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvPhai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvNgaySinh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvNoiSinh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvMaKH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvHocBong)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvvDiemTrungBinh)
+        </td>
+        <td>
+            @Html.ActionLink("NVV:Edit", "NvvEdit", new { id=item.NvvMaSV.Trim() }) |
+            @Html.ActionLink("NVV:Details", "NvvDetails", new { id=item.NvvMaSV.Trim() }) |
+            @Html.ActionLink("NVV:Delete", "NvvDelete", new { id=item.NvvMaSV.Trim() })
+        </td>
+    </tr>
+}
+
+</table>
